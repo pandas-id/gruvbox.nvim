@@ -17,6 +17,7 @@ init.nvim
 colorschema gruvbox
 ```
 init.lua
+
 ```
 vim.cmd("colorscheme gruvbox")
 ```

@@ -3,22 +3,21 @@ a theme for the nvim text editor
 
 # installing
 vim-plug
-```
+```vim
 plug "pandas-id/gruvbox.nvim"
 ```
 packer
-```
+```lua
 use "pandas-id/gruvbox.nvim"
 ```
 
 # usage
 init.nvim
-```
+```vim
 colorschema gruvbox
 ```
 init.lua
-
-```
+```lua
 vim.cmd("colorscheme gruvbox")
 ```
 

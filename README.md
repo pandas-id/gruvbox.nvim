@@ -12,7 +12,7 @@ use "pandas-id/gruvbox.nvim"
 ```
 
 # usage
-init.nvim
+init.vim
 ```vim
 colorschema gruvbox
 ```

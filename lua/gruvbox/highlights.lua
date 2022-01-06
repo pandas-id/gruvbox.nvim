@@ -35,7 +35,7 @@ local highlights = {
   Comment = { fg=gray },
   Debug = {fg=red},
   Todo = { fg=blue, bg=bg0, gui="bold" },
-  Error = { fg=red },
+  Error = { fg=fg1, bg=red, gui="underline"},
   Statement = { fg=red },
   Conditional = { fg=red },
   Repeat = { fg=red },
